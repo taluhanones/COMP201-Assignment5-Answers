@@ -1,0 +1,1 @@
+In this task, i have converted A to binary form. The code is set to execute for 125 times and the address is taken.

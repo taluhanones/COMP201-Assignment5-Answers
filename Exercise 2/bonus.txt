@@ -1,0 +1,4 @@
+To ensure that the program runs to completion, I added a printf() to main() right before return 0;
+The code should not segfault at any point to receive this bonus.
+I runned the program under gdb and observed its stack and behavior, and
+tried to restore the stack state at the end of your injected payload.
